@@ -28,4 +28,4 @@ print(Layer4_firewall(data3))
 ## Evidance
 ![](https://github.com/MeisaChi/Year2/blob/main/photo/quiz78.png)
 
-Fig.1 Python's output from running the program
+Fig.1 Pycharm's output from running the program
