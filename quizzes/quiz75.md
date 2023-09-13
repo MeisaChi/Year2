@@ -1,4 +1,4 @@
-# Quiz75
+# Quiz75 - Input to Binary Converter
 ## Code
 ```.py
 ex1 = 'Hello World!'
