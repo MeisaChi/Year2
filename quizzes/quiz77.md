@@ -1,10 +1,10 @@
-# Quiz77
+# Quiz77 - Parity Check
 ## Code
 ```.py
 data = "100111001011001110010110011100101"
 data2 = "011101111101110111110111001111"
 
-def priority_checker(data):
+def parity_checker(data):
     error = True
     state = "odd"
     if data[0]=='1':
@@ -17,8 +17,10 @@ def priority_checker(data):
         error = False
     return error
 
-print(priority_checker(data))
-print(priority_checker(data2))
+print(parity_checker(data))
+print(parity_checker(data2))
 ```
 ## Evidance
 ![](https://github.com/MeisaChi/Year2/blob/main/photo/quiz77.png)
+
+Fig.1 Pycharm's output from running the program
