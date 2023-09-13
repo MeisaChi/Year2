@@ -40,3 +40,5 @@ print(address)
 
 ## Evidence
 ![](https://github.com/MeisaChi/Year2/blob/main/photo/quiz71.png)
+
+Fig.1 Pycharm's output from running the program
