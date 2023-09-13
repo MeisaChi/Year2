@@ -17,3 +17,5 @@ print(converter(ex3))
 ```
 ## Evidance
 ![](https://github.com/MeisaChi/Year2/blob/main/photo/quiz75.png)
+
+Fig.1 Pycharm's output from running the program
