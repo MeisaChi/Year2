@@ -1,4 +1,4 @@
-# Quiz73 - Mac and IP table
+# Quiz73 - MAC and IP table
 ## Code
 ```.py
 class ip_generator():
