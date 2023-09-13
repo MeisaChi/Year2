@@ -1,4 +1,4 @@
-# Quiz77 - Parity Check
+# Quiz77 - Parity Checker
 ## Code
 ```.py
 data = "100111001011001110010110011100101"
