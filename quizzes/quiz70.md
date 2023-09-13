@@ -13,4 +13,9 @@ print(iplist)
 ```
 ## Evidance
 ![](https://github.com/MeisaChi/Year2/blob/main/photo/quiz70.png)
+
+Fig.1 The top part of Pycharm's output from running the program
+
 ![](https://github.com/MeisaChi/Year2/blob/main/photo/quiz70-2.png)
+
+Fig.2 The bottom part of Pycharm's output from running the program
