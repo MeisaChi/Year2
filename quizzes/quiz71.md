@@ -1,4 +1,4 @@
-# Quiz71
+# Quiz71 - IPv6 Generator
 
 ## Code
 ```.py
