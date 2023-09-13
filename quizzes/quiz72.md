@@ -1,4 +1,4 @@
-# Quiz72
+# Quiz72 - MAC Generator
 ## Code
 ```.py
 from random import randint
