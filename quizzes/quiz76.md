@@ -1,4 +1,4 @@
-# Quiz76
+# Quiz76 Error Checker
 ## Code
 ```.py
 data = "100111001011001110010110011100101"
