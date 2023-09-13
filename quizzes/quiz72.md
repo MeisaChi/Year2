@@ -39,3 +39,5 @@ print(list)
 ```
 ## Evidance
 ![](https://github.com/MeisaChi/Year2/blob/main/photo/quiz72.png)
+
+Fig.1 Pycharm's output from running the program
