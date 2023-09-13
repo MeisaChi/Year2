@@ -1,4 +1,4 @@
-# Quiz70
+# Quiz70 - IPv4Generator
 ## Code
 ```.py
 iplist = []
