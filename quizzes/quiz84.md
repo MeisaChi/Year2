@@ -1,4 +1,4 @@
-# Quiz85 - Employee Classes
+# Quiz84 - Number Classes
 ## Code
 ```.py
 cclass fourDigitNumber:
